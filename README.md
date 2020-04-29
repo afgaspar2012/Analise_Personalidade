@@ -1,6 +1,6 @@
 # Analise_Personalidade
 Analise de personalidade usando Personality Insights
-Ambiente demo ativo em -> https://analisepersonalidade.mybluemix.net/mui
+
 
 Requisitos:
 A) Apps Cloud Foundry
@@ -13,4 +13,8 @@ node-red-contrib-mdashboard
 B) Serviços Cloud Foundry
 Watson Language Translator
 Presonality Insights
+
+
+Demo ativa em -> https://analisepersonalidade.mybluemix.net/mui
+![alt text](https://github.com/afgaspar2012/Analise_Personalidade/blob/master/AP.png)
 
